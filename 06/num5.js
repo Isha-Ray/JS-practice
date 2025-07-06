@@ -1,0 +1,1 @@
+// Print multiplication table of 5.

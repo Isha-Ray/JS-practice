@@ -1,0 +1,1 @@
+// Find sum of numbers from 1 to 100 using loop.
