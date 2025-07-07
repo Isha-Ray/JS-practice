@@ -4,7 +4,9 @@
    let name = "Isha";
    console.log("Inside function:", name); 
  }
- firstName();
+ firstName();  
+
+//  Output -------- Inside function: Isha
 
 /* Yahan 'name' naam ka variable sirf function ke andar hi exist karta hai.
    Isko kehte hain function scope. */

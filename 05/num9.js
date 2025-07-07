@@ -8,5 +8,7 @@ let light = "Red";
 (light === "Green") && console.log("Go");
 (light !== "Red" && light !== "Yellow" && light !== "Green") && console.log("Invalid color");
 
+// Output ----- Stop
+
 
 //  Yaha pe AND (&&) logic ka use hua h.

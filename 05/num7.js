@@ -11,6 +11,8 @@ if (age > 21 && salary > 25000 && hasNoDebts) {
   console.log("User is NOT eligible to apply for a loan.");
 }
 
+// Output ----- User is eligible to apply for a loan.
+
 
 /* Yaha pe tino condition satisy karna parega tb hi ye eligible hoga.
      Isliye && (AND) ka use hua.  */

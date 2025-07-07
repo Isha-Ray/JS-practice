@@ -9,6 +9,8 @@ if (isAuthenticated && isEmailVerified) {
   console.log("Login failed: Authentication or email verification is incomplete.");
 }
 
+// Output --- Login failed: Authentication or email verification is incomplete.
+
 
 /*  Yaha pe && ka use hua h mtlb AND ka, kyuki dono condition
         true hona chahiye tb hi ye login successful hota h.   */ 

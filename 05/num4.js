@@ -27,7 +27,7 @@
     // && ! ----> Allow only one to be true (3 or 5), but not both.  
 
 
-        // Another Method ---------------------------------
+    // Another Method --------------------------------------------------------
 
 // let num = 3;
 

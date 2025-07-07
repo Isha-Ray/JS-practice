@@ -3,6 +3,8 @@
 // OR ----- Atleast one cond. should be true (||) 
 // NOT ----- True -> False & False -> True
 
+// -------------------------------------------------------------------
+
 // const age = 20;
 // const gender = 'female';
 
@@ -10,10 +12,16 @@
 //     console.log('You are an adult female')
 // }
 
-const number = 5;
+// Output ---- You are an adult female
 
-if(!(number % 2 == 0)) {
-    console.log("Odd")
-}
+// ----------------------------------------------------------------------
+
+// const number = 5;
+
+// if(!(number % 2 == 0)) {
+//     console.log("Odd")
+// }
+
+// Output --- Odd
 
 

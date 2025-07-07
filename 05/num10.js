@@ -10,6 +10,8 @@ if ((marks > 50 || hasExtraCredit) && !isBlacklisted) {
   console.log("Student fails the exam.");
 }
 
+// Output ---- Student passes the exam.
+
 /* Yaha pe tino logical operators (&&, ||, !) ka use hua h,
     jaise : marks > 50, 'OR' the student has extra credit, 'AND' the student is 'NOT' blacklisted.
         */

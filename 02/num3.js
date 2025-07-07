@@ -6,5 +6,5 @@ console.log(birthYear)
 // Output ---- 2005
 
 /* Ye birthyear reassign(change) nhi hoga kyuki humne const ka use kiye h 
-     Agr change karna h toh let use karenge  */
+     Agr change karna h toh let use karenge.  */
 
