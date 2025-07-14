@@ -1,0 +1,1 @@
+// Use forEach() to print all elements of an array with a message: "Value is X".

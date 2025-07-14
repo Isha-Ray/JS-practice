@@ -1,0 +1,1 @@
+// Write a function fetchData(callback) that simulates data fetching using setTimeout and calls the callback after 2 seconds.

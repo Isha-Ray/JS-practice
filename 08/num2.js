@@ -1,0 +1,1 @@
+// Create an arrow function isAdult that returns true if age is 18 or more.

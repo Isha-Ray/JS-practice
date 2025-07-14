@@ -1,0 +1,1 @@
+// Use an arrow function inside setTimeout() to print "Welcome" after 2 seconds.

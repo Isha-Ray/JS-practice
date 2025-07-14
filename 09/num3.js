@@ -1,0 +1,1 @@
+// Create a function greetUser(name, callback) where callback adds something (like a title) to the name and logs it.

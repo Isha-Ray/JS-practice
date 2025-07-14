@@ -1,0 +1,1 @@
+// Write a function isEven(n) that returns true if a number is even, otherwise false.

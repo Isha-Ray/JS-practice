@@ -1,0 +1,1 @@
+// Create an arrow function that takes a string and returns its length.

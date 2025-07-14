@@ -1,0 +1,1 @@
+// Write a function findMax(arr) that returns the largest number in an array.
