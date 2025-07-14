@@ -2,7 +2,6 @@
 An arrow function is a shorter and cleaner way to write function expressions in JavaScript. */
 
 
-
 // 1.(a) Syntax -------------------------------------------------------------------------------------
 
 
