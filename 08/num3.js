@@ -1,7 +1,8 @@
-// Create an arrow function that takes a string and returns its length.
-// --------------------------------------------------------------------
+//  Create an arrow function getLength(str) that returns the length of a string.
 
-const getStringLength = str => str.length;
+const getLength = (str) => str.length;
 
-console.log(getStringLength("hello")); // Output: 5
-console.log(getStringLength("ChatGPT")); // Output: 7
+console.log(getLength("hello"));     // Output: 5
+console.log(getLength("JavaScript"));// Output: 10
+
+// str.length gives the number of characters in the string.

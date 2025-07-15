@@ -1,8 +1,6 @@
-// Create an arrow function isAdult that returns true if age is 18 or more.
-// ----------------------------------------------------------------------
+//  Create an arrow function double(n) that returns n * 2.
 
+const double = (n) => n * 2;  // (n) → the parameter
 
-const isAdult = age => age >= 18;
-
-console.log(isAdult(20)); // true
-console.log(isAdult(15)); // false
+console.log(double(5));  // Output: 10
+console.log(double(12)); // Output: 24

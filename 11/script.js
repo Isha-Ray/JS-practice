@@ -4,7 +4,7 @@ They are built-in methods on arrays that take functions as arguments (callbacks)
 
 // const students = ["John", "Harry", "Bill", "Jane"];
 
-// for(let i = 0; i < students.length; i++){
+// for(let i = 0; i < students.length; i++){  // using for loop
 //      console.log(students[i]);
 // }
 

@@ -1,0 +1,1 @@
+// Write a function findItem(arr, item) that returns true if the item is in the array (use .includes()).

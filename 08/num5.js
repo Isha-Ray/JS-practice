@@ -1,8 +1,12 @@
-// Use an arrow function inside setTimeout() to print "Welcome" after 2 seconds.
+// Use an arrow function inside setTimeout to print "Done" after 1 second.
 
-setTimeout(() => {
-  console.log("Welcome");
-}, 2000);
+setTimeout(() => { // setTimeout delays execution of a function.
 
-// Output ----> Welcome
+  console.log("Done"); // arrow function.
 
+}, 1000); // 1 sec = 1000 milliseconds.
+
+// Output ----> Done
+
+/* setTimeout ek JavaScript function hai jo kisi bhi function ko delay ke baad chalayega, 
+ turant nahi. */

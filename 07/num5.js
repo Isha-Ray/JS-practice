@@ -1,17 +1,9 @@
-// Write a function findMax(arr) that returns the largest number in an array.
-// ------------------------------------------------------------------------
+//Make a function getFullName(first, last) that returns the full name as a string.
 
-function findMax(arr) {
-  if (arr.length === 0) {
-    return "Array is empty";
-  }
-  let max = arr[0];
-  for (let i = 1; i < arr.length; i++) { // For loop used
-    if (arr[i] > max) {
-      max = arr[i];
-    }
-  }
-  return max;
+
+function getFullName(first, last) {
+  return first + " " + last; //This line joins the first and last names into one string with a space in between.
 }
 
-console.log(findMax([3, 7, 2, 9, 5])); // Output: 9
+let fullName = getFullName("Isha", "Ray");
+console.log(fullName);  // Output: Isha Ray
