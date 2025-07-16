@@ -6,4 +6,4 @@ console.log(squares);
 
 // Output ----> [1, 4, 9, 16]
 
-//map() – Transform each element and return a new array
+//.map() – Transform each element and return a new array

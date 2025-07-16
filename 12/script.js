@@ -5,7 +5,7 @@ manipulate HTML and CSS of a webpage.
 Through the DOM, JavaScript can read, change, add, or delete HTML elements and their content.
 
 
-// MDN ----*
+// MDN ----*****
 
  */
 
