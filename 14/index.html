@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM - Query Selector</title>
+    <style>
+        
+        /*
+
+        . red-color {  
+            color : red;
+        }
+        . underline {
+            text-decoration: underline;
+        }
+            
+        */
+        
+    </style>
+</head>
+<body>
+    <nav class="Block">
+        <p class="paragraph">Welcome to my website</p>
+    </nav>
+
+    <div class="Block">
+        <h4>Hey there, My name is <span class="red-color" id="username">Isha Ray</span> :)
+        </h4>
+        <p class="block">Here is a code for you</p>
+        <pre><code>console.log('Hey There')</code></pre>
+    </div>
+
+    <script>
+        const el = document.getElementById('username');
+        console.log(el.id);
+        el.setAttribute("aria", "123");
+        el.remove();
+        console.log(el.innerText);
+        el.innerText = 'John Doe';
+        el.classList.add("red-color", "underline");
+        console.log(el.classList);
+        el.classList.remove("red-color");
+        el.style.textDecoration = "underline";
+        el.style.color = "tomato";
+        console.log(el.parentElement);
+        el.parentElement.style.background = "grey";
+    </script>
+</body>
+</html>
