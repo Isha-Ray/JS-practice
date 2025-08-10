@@ -39,7 +39,7 @@
     console.log(el.parentElement);
     el.parentElement.style.background = "grey";
 
-    // ❗ Now, if you want to remove the element: ----------------------------------------------------------------
+    // Now, if you want to remove the element: ----------------------------------------------------------------
     // Do it at the very end AFTER all changes
     el.remove();
   </script>
