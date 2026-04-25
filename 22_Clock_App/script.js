@@ -13,4 +13,5 @@ let interval = setInterval(showTime, 1000);
 button.addEventListener('click', () => {
     clearInterval(interval);
 
+    
 });

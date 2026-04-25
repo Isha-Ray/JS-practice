@@ -21,5 +21,5 @@ function failedToGet() {
 
 button.addEventListener('click', async () => {
     navigator.geolocation.getCurrentPosition(gotLocation, failedToGet)
-
+  
 })
